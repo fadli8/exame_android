@@ -1,4 +1,4 @@
-package com.example.khaddan_zakaria_exam_m1_iibdcc_23;
+package com.example.exam;
 
 import org.junit.Test;
 
